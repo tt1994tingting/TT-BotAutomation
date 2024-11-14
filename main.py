@@ -4,56 +4,49 @@
 # docker start ollama
 
 # Import required modules
-import requests
 import json
-from   ollama import Client
-from   bs4 import BeautifulSoup
-from   arxiv2text import arxiv_to_text
-
-# Define API endpoint
-api_url = 'http://localhost:11434'
+# from ollama import Clientls
+from ollama import Client
+from arxiv2text import arxiv_to_text
+from funcs import *
+from configs import *
 
 # Define the model parameters
 context_length = 4096
 num_predict = 100
 repeat_penalty = 1.2
 
-# Function: Parse HTML
-def parse_html(url):
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    text = soup.get_text()
-    return text
+def bot_response (messages, api_url):
+    client = Client(host=api_url)
+    response = client.chat(
+        model='llama3.2',
+        messages=messages,
+        options={
+            'num_ctx': context_length,
+            'num_predict': num_predict,
+            'repeat_penalty': repeat_penalty,
+        }
+    )
+    return response['message']['content']
 
 # Define test data set
-test_url = 'https://arxiv.org/pdf/2411.04991'
-arxiv_text = arxiv_to_text(test_url)
-payload_text = arxiv_text[arxiv_text.find('Abstract\n'):arxiv_text.find('Keywords:')].replace('Abstract\n', '').replace('\n', ' ').strip()
+test_urls = get_arxiv_pdf_links(article_main_url)
+for url in test_urls[:10]:
+    print(f"for url:{url}")
+    arxiv_text = arxiv_to_text(url)
+    payload_text = extract_abstract_section(arxiv_text)
+    
+    if payload_text:
+        # print(payload_text)
+        # User's message
+        user_message = {
+            'role': 'user',
+            'content': f"Summarize only the key takeaways from the following research paper in no more than 50 words: {payload_text}"
+        }
 
-# Define the system message to set the assistant's role and instructions
-system_message = {
-    'role': 'system',
-    'content': 'You are an expert AI research assistant, specialized with extracting useful and actionable insights from research papers.'
-}
-
-# User's message
-user_message = {
-    'role': 'user',
-    'content': f"Summarize only the key takeaways from the following research paper in no more than 50 words: {payload_text}"
-}
-
-# Combine messages into a list
-messages = [system_message, user_message]
-
-client = Client(host=api_url)
-response = client.chat(
-    model='llama3.2',
-    messages=messages,
-    options={
-        'num_ctx': context_length,
-        'num_predict': num_predict,
-        'repeat_penalty': repeat_penalty,
-    }
-)
-
-print(response['message']['content'])
+        # Combine messages into a list
+        messages = [system_message, user_message]
+        res = bot_response (messages, api_url)
+        print(res)
+    else:
+        print("Payload text invalid...")
