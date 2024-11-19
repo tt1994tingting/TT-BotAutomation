@@ -4,56 +4,70 @@
 # docker start ollama
 
 # Import required modules
-import requests
 import json
-from   ollama import Client
-from   bs4 import BeautifulSoup
-from   arxiv2text import arxiv_to_text
+# from ollama import Clientls
+from arxiv2text import arxiv_to_text
+from funcs import *
+from configs import *
 
-# Define API endpoint
-api_url = 'http://localhost:11434'
+# DB
+conn = init_db(summary_db)
+# delete_table(conn)
 
-# Define the model parameters
-context_length = 4096
-num_predict = 100
-repeat_penalty = 1.2
 
-# Function: Parse HTML
-def parse_html(url):
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    text = soup.get_text()
-    return text
+# # Define test data set
+# test_urls = get_arxiv_pdf_links(article_main_url)
+# for url in test_urls:
+#     print(f"Processing URL: {url}")
 
-# Define test data set
-test_url = 'https://arxiv.org/pdf/2411.04991'
-arxiv_text = arxiv_to_text(test_url)
-payload_text = arxiv_text[arxiv_text.find('Abstract\n'):arxiv_text.find('Keywords:')].replace('Abstract\n', '').replace('\n', ' ').strip()
+#     # check if summary exist in DB
+#     summary = get_summary_from_db(conn, url,['summary'])
+#     if summary:
+#         print("Summary found in database!")
 
-# Define the system message to set the assistant's role and instructions
-system_message = {
-    'role': 'system',
-    'content': 'You are an expert AI research assistant, specialized with extracting useful and actionable insights from research papers.'
-}
+#     arxiv_text = arxiv_to_text(url)
+#     payload_text = extract_abstract_section(arxiv_text)
+    
+#     if payload_text:
+#         print("########### Abstract ##############")
+#         print(payload_text)
+#         user_message = {
+#             'role': 'user',
+#                 'content': f"""Extract the key takeaways from the following research summary in exactly 50 words or less. 
+#                             Provide only the summary text without any additional explanation:\n\n{payload_text}"""
+#         }
+#         messages = [system_message, user_message]
+#         summary = bot_response(messages, api_url)
+#         print("########### Summary ##############")
+#         print(summary)
+#         save_summary_to_db(conn, url, payload_text, summary)
+#     else:
+#         print("Payload text invalid...")
 
-# User's message
-user_message = {
-    'role': 'user',
-    'content': f"Summarize only the key takeaways from the following research paper in no more than 50 words: {payload_text}"
-}
 
-# Combine messages into a list
-messages = [system_message, user_message]
+# summary classification
+conn = sqlite3.connect(summary_db)
+summaries = fetch_all_summaries(conn, ['url','summary'])
+print(len(summaries))
+# classified_counts = classify_summaries(api_url, summaries[:10])
+# print(classified_counts)
+category_counts, url_classifications = classify_summaries_with_two_layers(api_url, summaries)
 
-client = Client(host=api_url)
-response = client.chat(
-    model='llama3.2',
-    messages=messages,
-    options={
-        'num_ctx': context_length,
-        'num_predict': num_predict,
-        'repeat_penalty': repeat_penalty,
-    }
-)
+# 打印分类统计结果
+print("分类统计结果:")
+for (level1, level2), count in category_counts.items():
+    print(f"{level1}: {level2} - {count}")
 
-print(response['message']['content'])
+# 打印每个 URL 的分类结果
+print("\n每个 URL 的分类结果:")
+print(len(url_classifications.items()))
+for url, (level1, level2) in url_classifications.items():
+    print(f"{url} -> {level1}: {level2}")
+
+# classification DB
+classification_conn = init_classification_db()
+
+# 插入分类结果
+for url, (level1, level2) in url_classifications.items():
+    insert_classification(classification_conn, url, level1, level2)
+
