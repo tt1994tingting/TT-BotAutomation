@@ -1,0 +1,9 @@
+# Python environment files
+venv/
+__pycache__/
+
+# Data files
+data/
+*.db
+*.bin
+*.pkl
