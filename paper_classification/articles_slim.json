@@ -1,0 +1,1862 @@
+[
+  {
+    "title": "Empirical and Experimental Perspectives on Big Data in Recommendation Systems: A Comprehensive Survey",
+    "keywords": [
+      "big data algorithms,",
+      "recommendation systems,",
+      "recommendation algorithms,",
+      "deep learning in recommendations"
+    ]
+  },
+  {
+    "title": "Towards Privacy in Decentralized IoT: A Blockchain-Based Dual Response DP Mechanism",
+    "keywords": [
+      "differential privacy,",
+      "dual response strategies,",
+      "collusion attack,",
+      "blockchain"
+    ]
+  },
+  {
+    "title": "An Evaluation of Variational Autoencoder in Credit Card Anomaly Detection",
+    "keywords": [
+      "anomaly detection,",
+      "optimization,",
+      "imbalanced dataset,",
+      "generative modeling,",
+      "convolutional neural network (cnn),",
+      "variational autoencoder (vae),",
+      "latent space scaling,",
+      "reconstruction error"
+    ]
+  },
+  {
+    "title": "SGCL-LncLoc: An Interpretable Deep Learning Model for Improving lncRNA Subcellular Localization Prediction with Supervised Graph Contrastive Learning",
+    "keywords": [
+      "supervised contrastive learning,",
+      "long non-coding rna (lncrna),",
+      "subcellular localization prediction,",
+      "deep learning,",
+      "graph convolutional network (gcn)"
+    ]
+  },
+  {
+    "title": "SNCA: Semi-Supervised Node Classification for Evolving Large Attributed Graphs",
+    "keywords": [
+      "attributed networks,",
+      "node classification,",
+      "recommender systems"
+    ]
+  },
+  {
+    "title": "G3DC: A Gene-Graph-Guided Selective Deep Clustering Method for Single Cell RNA-seq Data",
+    "keywords": [
+      "gene graphs,",
+      "feature selection,",
+      "deep learning"
+    ]
+  },
+  {
+    "title": "DMSS: An Attention-Based Deep Learning Model for High-Quality Mass Spectrometry Prediction",
+    "keywords": [
+      "mass spectrometry,",
+      "proteomics,",
+      "machine learning,",
+      "deep learning"
+    ]
+  },
+  {
+    "title": "A Disentangled Representation-Based Multimodal Fusion Framework Integrating Pathomics and Radiomics for KRAS Mutation Detection in Colorectal Cancer",
+    "keywords": [
+      "kras mutation detection,",
+      "multimodal feature fusion,",
+      "pathomics,",
+      "radiomics"
+    ]
+  },
+  {
+    "title": "Influence of Attribute Granulation on Three-Way Concept Lattices",
+    "keywords": [
+      "granularity of attributes,",
+      "three-way concept analysis (3wca),",
+      "three-way concept lattice"
+    ]
+  },
+  {
+    "title": "EPIMR: Prediction of Enhancer-Promoter Interactions by Multi-Scale ResNet on Image Representation",
+    "keywords": [
+      "enhancer-promoter interactions,",
+      "hilbert curve,",
+      "multi-scale residual neural network (resnet)"
+    ]
+  },
+  {
+    "title": "House Price Prediction: A Multi-Source Data Fusion Perspective",
+    "keywords": [
+      "price prediction,",
+      "real estate,",
+      "data mining,",
+      "data fusion,",
+      "machine learning"
+    ]
+  },
+  {
+    "title": "A Large-Scale Spatio-Temporal Multimodal Fusion Framework for Traffic Prediction",
+    "keywords": [
+      "spatio-temporal,",
+      "traffic prediction,",
+      "multimodal fusion,",
+      "learning representation"
+    ]
+  },
+  {
+    "title": "Autism Spectrum Disorder Classification with Interpretability in Children Based on Structural MRI Features Extracted Using Contrastive Variational Autoencoder",
+    "keywords": [
+      "autism spectrum disorder (asd) classification,",
+      "contrastive variational autoencoder (cvae),",
+      "transfer learning,",
+      "neuroanatomical interpretation"
+    ]
+  },
+  {
+    "title": "Prompting Large Language Models with Knowledge-Injection for Knowledge-Based Visual Question Answering",
+    "keywords": [
+      "visual question answering,",
+      "knowledge-based visual question answering,",
+      "large language model,",
+      "knowledge injection"
+    ]
+  },
+  {
+    "title": "Impact of Domain Knowledge and Multi-Modality on Intelligent Molecular Property Prediction: A Systematic Survey",
+    "keywords": [
+      "molecular property prediction (mpp),",
+      "deep learning (dl),",
+      "domain knowledge,",
+      "multi-modality,",
+      "drug discovery"
+    ]
+  },
+  {
+    "title": "Multi-Relational Graph Representation Learning for Financial Statement Fraud Detection",
+    "keywords": [
+      "financial statement fraud,",
+      "class imbalance,",
+      "graph neural networks (gnn),",
+      "multi-relational graphs"
+    ]
+  },
+  {
+    "title": "Network Diffusion Framework to Simulate Spreading Processes in Complex Networks",
+    "keywords": [
+      "computational framework,",
+      "seed selection,",
+      "influence maximisation,",
+      "spreading models,",
+      "temporal networks,",
+      "multilayer networks,",
+      "network science,",
+      "network control"
+    ]
+  },
+  {
+    "title": "Collaborative Knowledge Infusion for Low-Resource Stance Detection",
+    "keywords": [
+      "parameter-efficient learning,",
+      "low-resource stance detection,",
+      "knowledge infusion"
+    ]
+  },
+  {
+    "title": "Graph Deep Active Learning Framework for Data Deduplication",
+    "keywords": [
+      "data deduplication,",
+      "active learning,",
+      "similarity calculation"
+    ]
+  },
+  {
+    "title": "Multi-Task Learning for Alzheimer’s Disease Diagnosis and Mini-Mental State Examination Score Prediction",
+    "keywords": [
+      "multi-task learning,",
+      "alzheimer’s disease diagnosis,",
+      "mini-mental state examination score prediction"
+    ]
+  },
+  {
+    "title": "Local Region Frequency Guided Dynamic Inconsistency Network for Deepfake Video Detection",
+    "keywords": [
+      "deepfake video detection,",
+      "dynamic inconsistency,",
+      "local region,",
+      "local region frequency"
+    ]
+  },
+  {
+    "title": "QTFN: A General End-to-End Time-Frequency Network to Reveal the Time-Varying Signatures of the Time Series",
+    "keywords": [
+      "time-frequency analysis (tfa),",
+      "multi-scale residual encoder-decoder (mred),",
+      "quadratic time-frequency distribution (tfd)"
+    ]
+  },
+  {
+    "title": "Analysis and Classification of Fake News Using Sequential Pattern Mining",
+    "keywords": [
+      "disinformation,",
+      "fake news,",
+      "sequential pattern mining (spm),",
+      "frequent patterns,",
+      "classification"
+    ]
+  },
+  {
+    "title": "Exploring Fragment Adding Strategies to Enhance Molecule Pretraining in AI-Driven Drug Discovery",
+    "keywords": [
+      "pretraining,",
+      "information retrieval,",
+      "drug discovery,",
+      "virtual screening,",
+      "molecule property prediction"
+    ]
+  },
+  {
+    "title": "Node and Edge Joint Embedding for Heterogeneous Information Network",
+    "keywords": [
+      "node embedding,",
+      "edge embedding,",
+      "joint embedding,",
+      "heterogeneous information network (hin)"
+    ]
+  },
+  {
+    "title": "Call for Papers Special Issue on AI-Enhanced Big Data Governance",
+    "keywords": []
+  },
+  {
+    "title": "Data Temperature Informed Streaming for Optimising Large-Scale Multi-Tiered Storage",
+    "keywords": [
+      "data temperature,",
+      "hot and cold data,",
+      "multi-tiered storage,",
+      "metadata variable,",
+      "multi-temperature system"
+    ]
+  },
+  {
+    "title": "Improved Quantile Convolutional and Recurrent Neural Networks for Electric Vehicle Battery Temperature Prediction",
+    "keywords": [
+      "battery temperature,",
+      "deep learning,",
+      "convolutional and recurrent neural network,",
+      "quantile forecasting"
+    ]
+  },
+  {
+    "title": "Extending OpenStack Monasca for Predictive Elasticity Control",
+    "keywords": [
+      "elasticity control,",
+      "auto-scaling,",
+      "predictive operations,",
+      "monitoring,",
+      "openstack,",
+      "monasca"
+    ]
+  },
+  {
+    "title": "An Intelligent Big Data Security Framework Based on AEFS-KENN Algorithms for the Detection of Cyber-Attacks from Smart Grid Systems",
+    "keywords": [
+      "smart grid,",
+      "big data analytics,",
+      "machine learning (ml),",
+      "adabelief exponential feature selection (aefs),",
+      "polar bear optimization (pbo),",
+      "kernel extreme neural network (kenn)"
+    ]
+  },
+  {
+    "title": "Predicting Energy Consumption Using Stacked LSTM Snapshot Ensemble",
+    "keywords": [
+      "artificial intelligence (ai),",
+      "deep learning (dl),",
+      "energy consumption,",
+      "snapshot ensemble,",
+      "prediction"
+    ]
+  },
+  {
+    "title": "A Novel Recommendation Algorithm Integrates Resource Allocation and Resource Transfer in Weighted Bipartite Network",
+    "keywords": [
+      "cloud computing,",
+      "bipartite graph network,",
+      "recommendation algorithm,",
+      "link prediction,",
+      "cold start problem"
+    ]
+  },
+  {
+    "title": "AI-Based Advanced Approaches and Dry Eye Disease Detection Based on Multi-Source Evidence: Cases, Applications, Issues, and Future Directions",
+    "keywords": [
+      "artificial intelligence (ai),",
+      "dry eye disease (ded) detection,",
+      "ophthalmology,",
+      "multi-source evidence"
+    ]
+  },
+  {
+    "title": "Interpretable Detection of Malicious Behavior in Windows Portable Executables Using Multi-Head 2D Transformers",
+    "keywords": [
+      "malware,",
+      "windows protable executable (pe),",
+      "machine learning,",
+      "vision transformers"
+    ]
+  },
+  {
+    "title": "Unstructured Big Data Threat Intelligence Parallel Mining Algorithm",
+    "keywords": [
+      "unstructured big data mining,",
+      "parallel deep forest,",
+      "multi-label classification algorithm,",
+      "threat intelligence"
+    ]
+  },
+  {
+    "title": "Call for Papers Special Issue on Challenges and Opportunities in Retrieval-Augmented Generation for LLMs: Techniques, Trends, and Applications",
+    "keywords": []
+  },
+  {
+    "title": "Editorial",
+    "keywords": []
+  },
+  {
+    "title": "AI/ML Enabled Automation System for Software Defined Disaggregated Open Radio Access Networks: Transforming Telecommunication Business",
+    "keywords": [
+      "open radio access networks (o-ran),",
+      "flexible radio access network intelligent controller (fric),",
+      "reinforcement learning (rl),",
+      "external applications (xapps),",
+      "artificial intelligence (ai),",
+      "machine learning (ml), sixth generation (6g)"
+    ]
+  },
+  {
+    "title": "Enhancing Telemarketing Success Using Ensemble-Based Online Machine Learning",
+    "keywords": [
+      "telemarketing,",
+      "machine learning,",
+      "imbalanced dataset,",
+      "oversampling,",
+      "ensemble model,",
+      "online learning"
+    ]
+  },
+  {
+    "title": "ROBO-SPOT: Detecting Robocalls by Understanding User Engagement and Connectivity Graph",
+    "keywords": [
+      "social network analysis,",
+      "reputation,",
+      "spam over internet technology (spit),",
+      "unwanted calls,",
+      "robo-callers,",
+      "telephone network"
+    ]
+  },
+  {
+    "title": "E-Commerce Fraud Detection Based on Machine Learning Techniques: Systematic Literature Review",
+    "keywords": [
+      "e-commerce,",
+      "fraud detection,",
+      "machine learning (ml),",
+      "systematic review,",
+      "organized retail fraud"
+    ]
+  },
+  {
+    "title": "An Adaptive Scalable Data Pipeline for Multiclass Attack Classification in Large-Scale IoT Networks",
+    "keywords": [
+      "internet of things (iot),",
+      "apache spark,",
+      "apache kafka,",
+      "mongodb,",
+      "streaming,",
+      "concept drift"
+    ]
+  },
+  {
+    "title": "KeyEE: Enhancing Low-Resource Generative Event Extraction with Auxiliary Keyword Sub-Prompt",
+    "keywords": [
+      "natural language processing,",
+      "event extraction (ee),",
+      "multi-prompt learning (mpl),",
+      "low-resource"
+    ]
+  },
+  {
+    "title": "Call for Papers Special Issue on Data-Driven Spatial and Temporal Anomaly Detection",
+    "keywords": []
+  },
+  {
+    "title": "Limits of Depth: Over-Smoothing and Over-Squashing in GNNs",
+    "keywords": [
+      "graph neural networks (gnns),",
+      "learning on graphs,",
+      "over-smoothing,",
+      "over-squashing,",
+      "isotropic-gnns,",
+      "anisotropic-gnns"
+    ]
+  },
+  {
+    "title": "Molecular Generation and Optimization of Molecular Properties Using a Transformer Model",
+    "keywords": [
+      "molecular optimization,",
+      "transformer,",
+      "matched molecular pairs (mmps),",
+      "logd,",
+      "solubility"
+    ]
+  },
+  {
+    "title": "Attention-Based CNN Fusion Model for Emotion Recognition During Walking Using Discrete Wavelet Transform on EEG and Inertial Signals",
+    "keywords": [
+      "walking,",
+      "multi-modal fusion,",
+      "virtual reality,",
+      "emotion recognition,",
+      "discrete wavelet transform,",
+      "attention mechanism"
+    ]
+  },
+  {
+    "title": "A Survey on Event Tracking in Social Media Data Streams",
+    "keywords": [
+      "event detection (ed),",
+      "event propagation,",
+      "event evolution,",
+      "social networks"
+    ]
+  },
+  {
+    "title": "PURP: A Scalable System for Predicting Short-Term Urban TrafficFlow Based on License Plate Recognition Data",
+    "keywords": [
+      "traffic flow prediction,",
+      "k-nearest neighbor (knn),",
+      "license plate recognition (lpr) data,",
+      "spatio-temporal context"
+    ]
+  },
+  {
+    "title": "Call for Papers Special Issue on Big Data Computing for Cyber Physical Social Intelligence",
+    "keywords": []
+  },
+  {
+    "title": "Building a High-Performance Graph Storage on Top of Tree-Structured Key-Value Stores",
+    "keywords": [
+      "graph database,",
+      "high-performance,",
+      "graph storage"
+    ]
+  },
+  {
+    "title": "Call for Papers Special Issue on Challenges and Opportunities in Biomedical Big Data Analysis: From Large Language Models to Clinical Applications",
+    "keywords": []
+  },
+  {
+    "title": "QAR Data Imputation Using Generative Adversarial Network with Self-Attention Mechanism",
+    "keywords": [
+      "multivariate time series,",
+      "data imputation,",
+      "self-attention,",
+      "generative adversarial network (gan)"
+    ]
+  },
+  {
+    "title": "Multi-Smart Meter Data Encryption Scheme Basedon Distributed Differential Privacy",
+    "keywords": [
+      "smart grid,",
+      "homomorphic encryption,",
+      "data aggregation,",
+      "differential privacy,",
+      "cloud computing"
+    ]
+  },
+  {
+    "title": "Cell Consistency Evaluation Method Based on Multiple Unsupervised Learning Algorithms",
+    "keywords": [
+      "battery consistency,",
+      "charging segment data,",
+      "unsupervised learning"
+    ]
+  },
+  {
+    "title": "Gender-Based Analysis of User Reactions to Facebook Posts",
+    "keywords": [
+      "profiling,",
+      "knowledge extraction,",
+      "data mining,",
+      "emotion mining,",
+      "social media,",
+      "data crawling,",
+      "facebook reactions,",
+      "gender"
+    ]
+  },
+  {
+    "title": "Incremental Data Stream Classification with Adaptive Multi-Task Multi-View Learning",
+    "keywords": [
+      "data stream classification,",
+      "mobile sensors,",
+      "multi-task multi-view learning,",
+      "incremental learning"
+    ]
+  },
+  {
+    "title": "Identification of Proteins and Genes Associated with Hedgehog Signaling Pathway Involved in Neoplasm Formation Using Text-Mining Approach",
+    "keywords": [
+      "text-mining,",
+      "data mining,",
+      "hedgehog pathway,",
+      "neoplastic processes,",
+      "enrichment analysis,",
+      "pathology molecular mechanisms"
+    ]
+  },
+  {
+    "title": "Multi-Scale Feature Fusion Model for Bridge Appearance Defect Detection",
+    "keywords": [
+      "defect detection,",
+      "multi-scale feature fusion (mff),",
+      "region of interest (roi) alignment,",
+      "lightweight network"
+    ]
+  },
+  {
+    "title": "IoTDQ: An Industrial IoT Data Analysis Library for Apache IoTDB",
+    "keywords": [
+      "industrial big data,",
+      "data quality,",
+      "data mining and analytics"
+    ]
+  },
+  {
+    "title": "Discriminatively Constrained Semi-Supervised Multi-View Nonnegative Matrix Factorization with Graph Regularization",
+    "keywords": [
+      "multi-view,",
+      "semi-supervised clustering,",
+      "discriminative information,",
+      "geometric information,",
+      "feature normalizing strategy"
+    ]
+  },
+  {
+    "title": "Call for Papers—Special Issue on Edge AI Empowered Giant Model Training",
+    "keywords": []
+  },
+  {
+    "title": "Towards Privacy-Aware and Trustworthy Data Sharing Using Blockchain for Edge Intelligence",
+    "keywords": [
+      "edge intelligence,",
+      "blockchain,",
+      "personalized privacy preservation,",
+      "differential privacy,",
+      "smart healthcare networks (shns)"
+    ]
+  },
+  {
+    "title": "K-Means Clustering with Local Distance Privacy",
+    "keywords": [
+      "k-means clustering,",
+      "local differential privacy,",
+      "data analysis"
+    ]
+  },
+  {
+    "title": "A Clinical Data Analysis Based Diagnostic Systems for Heart Disease Prediction Using Ensemble Method",
+    "keywords": [
+      "artificial intelligence,",
+      "support vector machine,",
+      "logistic regression,",
+      "cleveland dataset,",
+      "supervised algorithm,",
+      "human sensing"
+    ]
+  },
+  {
+    "title": "Editorial",
+    "keywords": []
+  },
+  {
+    "title": "AI-Based Hybrid Models for Predicting Loan Risk in the Banking Sector",
+    "keywords": [
+      "artificial intelligence (ai),",
+      "machine learning (ml),",
+      "loan prediction,",
+      "support vector machine (svm),",
+      "random forest (rf),",
+      "accuracy"
+    ]
+  },
+  {
+    "title": "A PLS-SEM Based Approach: Analyzing Generation Z Purchase Intention Through Facebook’s Big Data",
+    "keywords": [
+      "facebook,",
+      "enjoyment,",
+      "credibility,",
+      "peer communication,",
+      "attitude,",
+      "intentions to purchase"
+    ]
+  },
+  {
+    "title": "VDCM: A Data Collection Mechanism for Crowd Sensing in Vehicular Ad Hoc Networks",
+    "keywords": [
+      "vehicular ad hoc networks (vanets),",
+      "crowd sensing,",
+      "data collection,",
+      "data aggregation security"
+    ]
+  },
+  {
+    "title": "Elastic Optimization for Stragglers in Edge Federated Learning",
+    "keywords": [
+      "edge computing,",
+      "federated learning,",
+      "distributed machine learning,",
+      "regularization,",
+      "stragglers"
+    ]
+  },
+  {
+    "title": "Personalized Federated Learning for Heterogeneous Residential Load Forecasting",
+    "keywords": [
+      "load forecasting,",
+      "personalized federated learning,",
+      "differential privacy"
+    ]
+  },
+  {
+    "title": "Replication-Based Query Management for Resource Allocation Using Hadoop and MapReduce over Big Data",
+    "keywords": [
+      "big data,",
+      "hadoop,",
+      "mapreduce,",
+      "resource allocation,",
+      "query management"
+    ]
+  },
+  {
+    "title": "Diagnosis and Detection of Alzheimer’s Disease Using Learning Algorithm",
+    "keywords": [
+      "alzheimer’s disease,",
+      "deep learning,",
+      "random forest,",
+      "xgboost"
+    ]
+  },
+  {
+    "title": "τSQWRL: A TSQL2-Like Query Language for Temporal Ontologies Generated from JSON Big Data",
+    "keywords": [
+      "temporal big data,",
+      "temporal ontology,",
+      "temporal query language,",
+      "temporal owl 2 from temporal json (τjowl ),",
+      "semantic query-enhanced web rule language (sqwrl),",
+      "temporal sql2 (tsql2),",
+      "internet of healthcare things (ioht)"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence Methods Applied to Catalytic Cracking Processes",
+    "keywords": [
+      "intelligent optimization algorithm,",
+      "neural networks,",
+      "catalytic cracking,",
+      "lumped kinetics"
+    ]
+  },
+  {
+    "title": "An Ensemble Learning Based Intrusion Detection Model for Industrial IoT Security",
+    "keywords": [
+      "industrial internet of things (iiot),",
+      "isolation forest,",
+      "intrusion detection dystem (ids),",
+      "intrusion,",
+      "pearson’s correlation coefficient (pcc),",
+      "random forest"
+    ]
+  },
+  {
+    "title": "Copy-Move Forgery Verification in Images Using Local Feature Extractors and Optimized Classifiers",
+    "keywords": [
+      "copy move forgery detection,",
+      "image authentication,",
+      "passive image forgery detection,",
+      "blind forgery detection"
+    ]
+  },
+  {
+    "title": "An Intelligent Heuristic Manta-Ray Foraging Optimization and Adaptive Extreme Learning Machine for Hand Gesture Image Recognition",
+    "keywords": [
+      "hand gesture recognition,",
+      "skin color detection,",
+      "morphological operations,",
+      "multifaceted feature extraction (mfe) model,",
+      "heuristic manta-ray foraging optimization (hmfo),",
+      "adaptive extreme learning machine (aelm)"
+    ]
+  },
+  {
+    "title": "Impact of Mobile Technology and Use of Big Data in Physics Education During Coronavirus Lockdown",
+    "keywords": [
+      "coronavirus,",
+      "mobile technology,",
+      "smartphone,",
+      "physics education,",
+      "remote learning"
+    ]
+  },
+  {
+    "title": "Call for Papers——Special Issue on Intelligent Network Video Advances Based on Transformers",
+    "keywords": []
+  },
+  {
+    "title": "Extraction of Fetal Electrocardiogram by Combining Deep Learning and SVD-ICA-NMF Methods",
+    "keywords": [
+      "fetal electrocardiogram,",
+      "convolutional neural network (cnn),",
+      "deep learning (dl),",
+      "feature extraction"
+    ]
+  },
+  {
+    "title": "Cloud-Based Intrusion Detection Approach Using Machine Learning Techniques",
+    "keywords": [
+      "cloud security,",
+      "anomaly detection,",
+      "features engineering,",
+      "random forest"
+    ]
+  },
+  {
+    "title": "Human Action Recognition Using Difference of Gaussian and Difference of Wavelet",
+    "keywords": [
+      "human action recognition,",
+      "difference of gaussian,",
+      "difference of wavelet,",
+      "linear discriminant analysis,",
+      "weizmann,",
+      "ucf 11,",
+      "accuracy"
+    ]
+  },
+  {
+    "title": "Editorial",
+    "keywords": []
+  },
+  {
+    "title": "A Machine Learning Based Framework for a Stage-Wise Classification of Date Palm White Scale Disease",
+    "keywords": [
+      "precision agriculture,",
+      "machine learning,",
+      "ensemble learning,",
+      "feature extraction,",
+      "date palm,",
+      "diseases"
+    ]
+  },
+  {
+    "title": "Denoising Graph Inference Network for Document-Level Relation Extraction",
+    "keywords": [
+      "relation eextraction (re),",
+      "document-level,",
+      "denoising,",
+      "linguistic knowledge,",
+      "attention mechanism"
+    ]
+  },
+  {
+    "title": "Efficacy of Bluetooth-Based Data Collection for Road Traffic Analysis and Visualization Using Big Data Analytics",
+    "keywords": [
+      "bluetooth scanners,",
+      "big data,",
+      "visualization,",
+      "speed,",
+      "sensors"
+    ]
+  },
+  {
+    "title": "DeepRetention: A Deep Learning Approach for Intron Retention Detection",
+    "keywords": [
+      "alternative splicing (as),",
+      "intron retention (ir),",
+      "intronic reads distribution pattern,",
+      "rna-seq"
+    ]
+  },
+  {
+    "title": "Cloud-Based Software Development Lifecycle: A Simplified Algorithm for Cloud Service Provider Evaluation with Metric Analysis",
+    "keywords": [
+      "cloud-based software development life cycle (sdlc),",
+      "cloud evaluation,",
+      "parameter-ranking priority level weightage (prplw) algorithm,",
+      "cloud service providers,",
+      "software engineering"
+    ]
+  },
+  {
+    "title": "Medical Knowledge Graph: Data Sources, Construction, Reasoning, and Applications",
+    "keywords": [
+      "medical knowledge graph,",
+      "knowledge graph construction,",
+      "knowledge reasoning,",
+      "intelligent medical applications,",
+      "intelligent healthcare"
+    ]
+  },
+  {
+    "title": "EScope: Effective Event Validation for IoT Systems Based on State Correlation",
+    "keywords": [
+      "internet of things (iot),",
+      "event spoofing,",
+      "event fingerprint,",
+      "correlation analysis"
+    ]
+  },
+  {
+    "title": "Security and Privacy in Metaverse: A Comprehensive Survey",
+    "keywords": [
+      "metaverse,",
+      "cybersecurity,",
+      "privacy protection,",
+      "cyber infrastructure,",
+      "extended reality"
+    ]
+  },
+  {
+    "title": "Survey of Distributed Computing Frameworks for Supporting Big Data Analysis",
+    "keywords": [
+      "distributed computing frameworks,",
+      "big data analysis,",
+      "approximate computing,",
+      "mapreduce computing model"
+    ]
+  },
+  {
+    "title": "Semi-Supervised Machine Learning for Fault Detection and Diagnosis of a Rooftop Unit",
+    "keywords": [
+      "semi-supervised machine learning,",
+      "fault classification,",
+      "fault detection and diagnostics,",
+      "heating, ventilation, and air-conditioning,",
+      "data-driven modeling,",
+      "energy efficiency"
+    ]
+  },
+  {
+    "title": "Continuous and Discrete Similarity Coefficient for Identifying Essential Proteins Using Gene Expression Data",
+    "keywords": [
+      "protein-protein interaction (ppi) network,",
+      "continuous and discrete similarity coefficient,",
+      "essential proteins"
+    ]
+  },
+  {
+    "title": "Ultra-Short Wave Communication Squelch Algorithm Based on Deep Neural Network",
+    "keywords": [
+      "squelch,",
+      "gated recurrent unit (gru),",
+      "ultra-short wave communication"
+    ]
+  },
+  {
+    "title": "FingerDTA: A Fingerprint-Embedding Framework for Drug-Target Binding Affinity Prediction",
+    "keywords": [
+      "drug-target binding affinity,",
+      "fingerprint,",
+      "new drug discovery"
+    ]
+  },
+  {
+    "title": "Satellite Image Classification Using a Hybrid Manta Ray Foraging Optimization Neural Network",
+    "keywords": [
+      "radial basis function neural network (rbfnn),",
+      "manta ray foraging optimization algorithm (mrfo),",
+      "landsat 8,",
+      "classification,",
+      "change detection,",
+      "disaster mitigation,",
+      "planning"
+    ]
+  },
+  {
+    "title": "A Method for Bio-Sequence Analysis Algorithm Development Based on the PAR Platform",
+    "keywords": [
+      "partition-and-recur (par),",
+      "domain engineering,",
+      "biological sequences,",
+      "feature model,",
+      "component assembly"
+    ]
+  },
+  {
+    "title": "Deep Convolutional Network Based Machine Intelligence Model for Satellite Cloud Image Classification",
+    "keywords": [
+      "satellite images,",
+      "satellite image classification,",
+      "cyclone prediction,",
+      "deep convolutional neural network (dcnn),",
+      "features,",
+      "layers,",
+      "down-sampling process"
+    ]
+  },
+  {
+    "title": "Intelligent Segment Routing: Toward Load Balancing with Limited Control Overheads",
+    "keywords": [
+      "traffic engineering,",
+      "segment routing,",
+      "bandwidth load balancing,",
+      "ant colony optimization"
+    ]
+  },
+  {
+    "title": "RF-PSSM: A Combination of Rotation Forest Algorithm and Position-Specific Scoring Matrix for Improved Prediction of Protein-Protein Interactions Between Hepatitis C Virus and Human",
+    "keywords": [
+      "protein-protein interactions,",
+      "hepatitis c virus,",
+      "position specific scoring matrix,",
+      "two-dimensional principal component analysis,",
+      "rotation forest"
+    ]
+  },
+  {
+    "title": "Closed-Form Models of Accuracy Loss due to Subsampling in SVD Collaborative Filtering",
+    "keywords": [
+      "collaborative filtering,",
+      "subsampling,",
+      "accuracy loss models,",
+      "performance loss,",
+      "recommendation system,",
+      "simulation,",
+      "rating matrix,",
+      "root mean square error"
+    ]
+  },
+  {
+    "title": "WTASR: Wavelet Transformer for Automatic Speech Recognition of Indian Languages",
+    "keywords": [
+      "transformer,",
+      "wavelet,",
+      "automatic speech recognition (asr),",
+      "indian language"
+    ]
+  },
+  {
+    "title": "Predicted Mean Vote of Subway Car Environment Based on Machine Learning",
+    "keywords": [
+      "predicted mean vote,",
+      "random forest,",
+      "variable selection,",
+      "thermal comfort"
+    ]
+  },
+  {
+    "title": "Call for Papers——Special Issue on Role & Impact of Advance Technologies AI, ML, and Big Data in Business and Society",
+    "keywords": []
+  },
+  {
+    "title": "Recommendation System with Biclustering",
+    "keywords": [
+      "recommendation system (rs),",
+      "collaborative filtering (cf),",
+      "local pattern,",
+      "biclustering,",
+      "similarity measure"
+    ]
+  },
+  {
+    "title": "Predicting Students’ Final Performance Using Artificial Neural Networks",
+    "keywords": [
+      "data science,",
+      "artificial intelligence (ai),",
+      "machine learning (ml),",
+      "neural networks,",
+      "prediction,",
+      "recommendation,",
+      "high school,",
+      "data analysis"
+    ]
+  },
+  {
+    "title": "Application of Internet of Things in the Health Sector: Toward Minimizing Energy Consumption",
+    "keywords": [
+      "internet of things (iot),",
+      "energy consumption,",
+      "cloud computing,",
+      "data storage"
+    ]
+  },
+  {
+    "title": "Influencing Factors and Clustering Characteristics of COVID-19: A Global Analysis",
+    "keywords": [
+      "data analysis,",
+      "extreme random forest regression,",
+      "spectral clustering,",
+      "hdi,",
+      "covid-19"
+    ]
+  },
+  {
+    "title": "Editorial",
+    "keywords": []
+  },
+  {
+    "title": "τJOWL: A Systematic Approach to Build and Evolve a Temporal OWL 2 Ontology Based on Temporal JSON Big Data",
+    "keywords": [
+      "big data,",
+      "javascript object notation (json),",
+      "json schema,",
+      "temporal json,",
+      "ontology,",
+      "temporal ontology,",
+      "τjschema,",
+      "τowl"
+    ]
+  },
+  {
+    "title": "Effect of Feature Selection on the Prediction of Direct Normal Irradiance",
+    "keywords": [
+      "machine learning,",
+      "deep learning,",
+      "feature importance,",
+      "renewable energies,",
+      "solar radiation"
+    ]
+  },
+  {
+    "title": "Call for Papers—Special Issue on Big Data Computing for Internet of Things and Utility and Cloud Computing",
+    "keywords": []
+  },
+  {
+    "title": "Deep Feature Learning for Intrinsic Signature Based Camera Discrimination",
+    "keywords": [
+      "deep learning,",
+      "visual signatures,",
+      "camera identification,",
+      "convolutional neural networks,",
+      "deep feature learning"
+    ]
+  },
+  {
+    "title": "A Systematic Review Towards Big Data Analytics in Social Media",
+    "keywords": [
+      "big data,",
+      "social media,",
+      "big data analytics,",
+      "social media analytics,",
+      "text analytics,",
+      "image analytics,",
+      "audio analytics,",
+      "video analytics,",
+      "predictive analytics,",
+      "descriptive analytics,",
+      "prescriptive analytics,",
+      "diagnostic analytics"
+    ]
+  },
+  {
+    "title": "An Optimized Sanitization Approach for Minable Data Publication",
+    "keywords": [
+      "data publication,",
+      "data sanitization,",
+      "association rules hiding,",
+      "evolutionary algorithm"
+    ]
+  },
+  {
+    "title": "Estimating Intelligence Quotient Using Stylometry and Machine Learning Techniques: A Review",
+    "keywords": [
+      "stylometry,",
+      "iq estimation,",
+      "authorship attribution,",
+      "intelligence,",
+      "iq,",
+      "author profiling,",
+      "machine learning"
+    ]
+  },
+  {
+    "title": "Optimal Dependence of Performance and Efficiency of Collaborative Filtering on Random Stratified Subsampling",
+    "keywords": [
+      "collaborative filtering (cf),",
+      "subsampling,",
+      "training time improvement (tti),",
+      "performance loss,",
+      "recommendation system (rs),",
+      "collaborative filtering optimal solutions,",
+      "rating matrix"
+    ]
+  },
+  {
+    "title": "p-Norm Broad Learning for Negative Emotion Classification in Social Networks",
+    "keywords": [
+      "social networks,",
+      "negative emotion,",
+      "roberta,",
+      "broad learning,",
+      "p-norm"
+    ]
+  },
+  {
+    "title": "Deep Learning in Nuclear Industry: A Survey",
+    "keywords": [
+      "nuclear industry,",
+      "artificial intelligence (ai),",
+      "deep learning (dl),",
+      "research status,",
+      "development trend"
+    ]
+  },
+  {
+    "title": "News Topic Detection Based on Capsule Semantic Graph",
+    "keywords": [
+      "news topic detection,",
+      "capsule semantic graph,",
+      "graph kernel"
+    ]
+  },
+  {
+    "title": "MAGAN: Unsupervised Low-Light Image Enhancement Guided by Mixed-Attention",
+    "keywords": [
+      "low-light image enhancement,",
+      "unsupervised learning,",
+      "generative adversarial network (gan),",
+      "mixed-attention"
+    ]
+  },
+  {
+    "title": "Understanding Social Relationships with Person-Pair Relations",
+    "keywords": [
+      "social relationship understanding,",
+      "person-pair relations,",
+      "person-pair relation network (pprn)"
+    ]
+  },
+  {
+    "title": "A Novel Influence Maximization Algorithm for a Competitive Environment Based on Social Media Data Analytics",
+    "keywords": [
+      "influence maximization,",
+      "competitive environment,",
+      "dynamic network"
+    ]
+  },
+  {
+    "title": "A Mini-Review of Machine Learning in Big Data Analytics: Applications, Challenges, and Prospects",
+    "keywords": [
+      "big data analytics (bda),",
+      "machine learning (ml),",
+      "big data (bd),",
+      "hadoop,",
+      "mapreduce"
+    ]
+  },
+  {
+    "title": "Toward Intelligent Financial Advisors for Identifying Potential Clients: A Multitask Perspective",
+    "keywords": [
+      "intelligent financial advisor (ifa),",
+      "potential client identification,",
+      "multitask learning (mtl),",
+      "feature selection"
+    ]
+  },
+  {
+    "title": "BCSE: Blockchain-Based Trusted Service Evaluation Model over Big Data",
+    "keywords": [
+      "social network,",
+      "trusted service evaluation model,",
+      "blockchain,",
+      "identity authentication"
+    ]
+  },
+  {
+    "title": "A Comparison of Computational Approaches for Intron Retention Detection",
+    "keywords": [
+      "alternative splicing,",
+      "intron retention,",
+      "gene expression,",
+      "rna-seq"
+    ]
+  },
+  {
+    "title": "Exploiting More Associations Between Slots for Multi-Domain Dialog State Tracking",
+    "keywords": [
+      "slot-relevant attention,",
+      "multi-domain dialog state tracking,",
+      "task-oriented dialog system"
+    ]
+  },
+  {
+    "title": "Big Data with Cloud Computing: Discussions and Challenges",
+    "keywords": [
+      "big data,",
+      "data analysis,",
+      "cloud computing,",
+      "hadoop"
+    ]
+  },
+  {
+    "title": "Sampling with Prior Knowledge for High-dimensional Gravitational Wave Data Analysis",
+    "keywords": [
+      "high-dimensional data,",
+      "prior sampling,",
+      "normalizing flow,",
+      "gravitational wave"
+    ]
+  },
+  {
+    "title": "Intelligent and Adaptive Web Data Extraction System Using Convolutional and Long Short-Term Memory Deep Learning Networks",
+    "keywords": [
+      "adaptive web scraping,",
+      "deep learning,",
+      "long short-term memory (lstm),",
+      "web data extraction,",
+      "you only look once (yolo)"
+    ]
+  },
+  {
+    "title": "Multimodal Adaptive Identity-Recognition Algorithm Fused with Gait Perception",
+    "keywords": [
+      "gait recognition,",
+      "person identification,",
+      "deep learning,",
+      "multimodal feature fusion"
+    ]
+  },
+  {
+    "title": "LotusSQL: SQL Engine for High-Performance Big Data Systems",
+    "keywords": [
+      "big data,",
+      "c++,",
+      "structured query language (sql),",
+      "query optimization"
+    ]
+  },
+  {
+    "title": "Attention-Aware Heterogeneous Graph Neural Network",
+    "keywords": [
+      "graph neural network (gnn),",
+      "heterogeneous information network (hin),",
+      "embedding"
+    ]
+  },
+  {
+    "title": "Coronavirus Pandemic Analysis Through Tripartite Graph Clustering in Online Social Networks",
+    "keywords": [
+      "covid-19,",
+      "clustering,",
+      "online social network,",
+      "twitter"
+    ]
+  },
+  {
+    "title": "A Deep-Learning Prediction Model for Imbalanced Time Series Data Forecasting",
+    "keywords": [
+      "time series forecasting,",
+      "imbalanced data,",
+      "deep learning,",
+      "prediction model"
+    ]
+  },
+  {
+    "title": "AIPerf: Automated Machine Learning as an AI-HPC Benchmark",
+    "keywords": [
+      "high-performance computing (hpc),",
+      "artificial intelligence (ai),",
+      "automated machine learning"
+    ]
+  },
+  {
+    "title": "Deep Sequential Model for Anchor Recommendation on Live Streaming Platforms",
+    "keywords": [
+      "live streaming,",
+      "sequential recommendation,",
+      "attention mechanism,",
+      "deep learning"
+    ]
+  },
+  {
+    "title": "A Survey on Algorithms for Intelligent Computing and Smart City Applications",
+    "keywords": [
+      "cyber physical systems,",
+      "internet of things (iot),",
+      "intelligent computing algorithm,",
+      "quality of service (qos),",
+      "smart city"
+    ]
+  },
+  {
+    "title": "A Multitask Multiview Neural Network for End-to-End Aspect-Based Sentiment Analysis",
+    "keywords": [
+      "deep learning,",
+      "multitask learning,",
+      "multiview learning,",
+      "natural language processing,",
+      "aspect-based sentiment analysis"
+    ]
+  },
+  {
+    "title": "Improvising Personalized Travel Recommendation System with Recency Effects",
+    "keywords": [
+      "travel recommendation,",
+      "time sensitivity,",
+      "recency effect,",
+      "personalization,",
+      "social media"
+    ]
+  },
+  {
+    "title": "Effective Density-Based Clustering Algorithms for Incomplete Data",
+    "keywords": [
+      "density-based clustering,",
+      "incomplete data,",
+      "clustering algorihtm"
+    ]
+  },
+  {
+    "title": "Sensitive Integration of Multilevel Optimization Model in Human Activity Recognition for Smartphone and Smartwatch Applications",
+    "keywords": [
+      "optimization,",
+      "ant lion optimization (alo),",
+      "gspan,",
+      "forward-backward rules (fbr),",
+      "internet of things (iot),",
+      "smartwatch,",
+      "smartphone"
+    ]
+  },
+  {
+    "title": "Analysis and Predictions of Spread, Recovery, and Death Caused by COVID-19 in India",
+    "keywords": [
+      "covid-19,",
+      "regression,",
+      "correlation,",
+      "machine learning,",
+      "prediction"
+    ]
+  },
+  {
+    "title": "Diagnosis of COVID-19 from Chest X-Ray Images Using Wavelets-Based Depthwise Convolution Network",
+    "keywords": [
+      "coronavirus,",
+      "covid-19,",
+      "deep learning,",
+      "convolution neural network,",
+      "x-ray images"
+    ]
+  },
+  {
+    "title": "An Advanced Uncertainty Measure Using Fuzzy Soft Sets: Application to Decision-Making Problems",
+    "keywords": [
+      "fuzzy soft sets,",
+      "dempster-shafer theory,",
+      "grey relational analysis,",
+      "entropy,",
+      "belief measures and medical diagnosis"
+    ]
+  },
+  {
+    "title": "Prediction of COVID-19 Confirmed, Death, and Cured Cases in India Using Random Forest Model",
+    "keywords": [
+      "coronavirus,",
+      "covid-19,",
+      "respiratory tract,",
+      "multi-class classification,",
+      "random forest"
+    ]
+  },
+  {
+    "title": "Effect of E-Learning on Public Health and Environment During COVID-19 Lockdown",
+    "keywords": [
+      "e-learning,",
+      "environment,",
+      "health,",
+      "covid-19"
+    ]
+  },
+  {
+    "title": "Analysis of Protein-Ligand Interactions of SARS-CoV-2 Against Selective Drug Using Deep Neural Networks",
+    "keywords": [
+      "deep neural network (dnn),",
+      "coronavirus,",
+      "protein-ligand interactions,",
+      "deep learning,",
+      "clinical healthcare system"
+    ]
+  },
+  {
+    "title": "Multivariate Deep Learning Approach for Electric Vehicle Speed Forecasting",
+    "keywords": [
+      "electric vehicle (ev),",
+      "multivariate long short-term memory (lstm),",
+      "speed forecasting,",
+      "deep learning"
+    ]
+  },
+  {
+    "title": "Intelligent Monitoring System for Biogas Detection Based on the Internet of Things: Mohammedia, Morocco City Landfill Case",
+    "keywords": [
+      "internet of things (iots),",
+      "biogas,",
+      "monitoring,",
+      "composition,",
+      "detection,",
+      "landfill"
+    ]
+  },
+  {
+    "title": "Hybrid Recommender System for Tourism Based on Big Data and AI: A Conceptual Framework",
+    "keywords": [
+      "recommender systems,",
+      "user profiling,",
+      "content-based filtering,",
+      "collaborative filtering,",
+      "hybrid recommender system,",
+      "e-tourism,",
+      "trip planning"
+    ]
+  },
+  {
+    "title": "IoT-Based Data Logger for Weather Monitoring Using Arduino-Based Wireless Sensor Networks with Remote Graphical Application and Alerts",
+    "keywords": [
+      "arduino,",
+      "weather station,",
+      "internet of things,",
+      "wireless,",
+      "sensors,",
+      "smart environment"
+    ]
+  },
+  {
+    "title": "New Enhanced Authentication Protocol for Internet of Things",
+    "keywords": [
+      "authetication,",
+      "internet of things (iot),",
+      "sensor,",
+      "security,",
+      "authorization"
+    ]
+  },
+  {
+    "title": "Improvement in Automated Diagnosis of Soft Tissues Tumors Using Machine Learning",
+    "keywords": [
+      "classification,",
+      "soft tissues tumours,",
+      "preprocessing techniques,",
+      "support vector machine (svm),",
+      "decision tree (dt),",
+      "machine learning,",
+      "predictive diagnosis"
+    ]
+  },
+  {
+    "title": "Mathematical Validation of Proposed Machine Learning Classifier for Heterogeneous Traffic and Anomaly Detection",
+    "keywords": [
+      "anomaly detection,",
+      "heterogeneous traffic,",
+      "preprocessing,",
+      "machine learning,",
+      "training,",
+      "classification"
+    ]
+  },
+  {
+    "title": "Machine Knowledge and Human Cognition",
+    "keywords": [
+      "intelligent machine,",
+      "machine knowledge,",
+      "human cognition,",
+      "knowledge interpretation,",
+      "principle of functional similarity,",
+      "probable approximative correction (pac) model"
+    ]
+  },
+  {
+    "title": "DFF-ResNet: An Insect Pest Recognition Model Based on Residual Networks",
+    "keywords": [
+      "insect pest recognition,",
+      "deep feature fusion,",
+      "residual network,",
+      "image classification"
+    ]
+  },
+  {
+    "title": "Survey on Data Analysis in Social Media: A Practical Application Aspect",
+    "keywords": [
+      "social media,",
+      "topic analysis,",
+      "time series analysis,",
+      "sentiment analysis,",
+      "network analysis,",
+      "disaster management,",
+      "bio-surveillance,",
+      "business intelligence"
+    ]
+  },
+  {
+    "title": "CircRNA-Disease Associations Prediction Based on Metapath2vec++ and Matrix Factorization",
+    "keywords": [
+      "circular rnas (circrnas),",
+      "circrna-disease associations,",
+      "matepath2vec++,",
+      "matrix factorization"
+    ]
+  },
+  {
+    "title": "Multi-Attention Fusion Modeling for Sentiment Analysis of Educational Big Data",
+    "keywords": [
+      "educational big data,",
+      "sentiment analysis,",
+      "aspect-level,",
+      "attention"
+    ]
+  },
+  {
+    "title": "Survey on Lie Group Machine Learning",
+    "keywords": [
+      "lie group machine learning,",
+      "lie group subspace orbit generation learning,",
+      "quantum group learning,",
+      "symplectic group learning,",
+      "lie group fiber bundle learning"
+    ]
+  },
+  {
+    "title": "Inference Attacks on Genomic Data Based on Probabilistic Graphical Models",
+    "keywords": [
+      "single nucleotide polymorphism (snp)-trait association,",
+      "belief propagation,",
+      "factor graph,",
+      "data sanitization"
+    ]
+  },
+  {
+    "title": "Error Data Analytics on RSS Range-Based Localization",
+    "keywords": [
+      "cramér-rao lower bound (crlb),",
+      "error data analytics,",
+      "generalized least squares,",
+      "received signal strength (rss)"
+    ]
+  },
+  {
+    "title": "Gradient Amplification: An Efficient Way to Train Deep Neural Networks",
+    "keywords": [
+      "deep learning,",
+      "gradient amplification,",
+      "learning rate,",
+      "backpropagation,",
+      "vanishing gradients"
+    ]
+  },
+  {
+    "title": "Fast Skyline Community Search in Multi-Valued Networks",
+    "keywords": [
+      "multi-valued graph,",
+      "community search,",
+      "skyline community"
+    ]
+  },
+  {
+    "title": "Applying Big Data Based Deep Learning System to Intrusion Detection",
+    "keywords": [
+      "intrusion detection,",
+      "deep learning,",
+      "convolution neural network,",
+      "fully connected feedforward neural network,",
+      "multi-level clustering algorithm"
+    ]
+  },
+  {
+    "title": "Novel and Efficient Randomized Algorithms for Feature Selection",
+    "keywords": [
+      "feature selection,",
+      "randomized algorithms,",
+      "efficient selection"
+    ]
+  },
+  {
+    "title": "Text-Based Price Recommendation System for Online Rental Houses",
+    "keywords": [
+      "price recommendation,",
+      "natural language processing,",
+      "sentence embedding,",
+      "long short-term memory (lstm),",
+      "mean shift"
+    ]
+  },
+  {
+    "title": "A Survey of Data Partitioning and Sampling Methods to Support Big Data Analysis",
+    "keywords": [
+      "big data analysis,",
+      "data partitioning,",
+      "data sampling,",
+      "distributed and parallel computing,",
+      "approximate computing"
+    ]
+  },
+  {
+    "title": "Feature Representations Using the Reflected Rectified Linear Unit (RReLU) Activation",
+    "keywords": [
+      "deep learning,",
+      "feature space,",
+      "approximations,",
+      "multi-output activations,",
+      "rectified linear unit (relu)"
+    ]
+  },
+  {
+    "title": "Online Real-Time Trajectory Analysis Based on Adaptive Time Interval Clustering Algorithm",
+    "keywords": [
+      "storm,",
+      "trajectory clustering,",
+      "adaptive,",
+      "data mining,",
+      "density grid"
+    ]
+  },
+  {
+    "title": "Comparative Study of Statistical Features to Detect the Target Event During Disaster",
+    "keywords": [
+      "disaster,",
+      "twitter,",
+      "support vector machine (svm),",
+      "statical features"
+    ]
+  },
+  {
+    "title": "Mining Conditional Functional Dependency Rules on Big Data",
+    "keywords": [
+      "data mining,",
+      "conditional functional dependency,",
+      "big data,",
+      "data quality"
+    ]
+  },
+  {
+    "title": "On Quantum Methods for Machine Learning Problems Part I: Quantum Tools",
+    "keywords": [
+      "quantum algorithm,",
+      "quantum programming,",
+      "machine learning"
+    ]
+  },
+  {
+    "title": "Sparse Deep Nonnegative Matrix Factorization",
+    "keywords": [
+      "sparse nonnegative matrix factorization (nmf),",
+      "deep learning,",
+      "nesterov’s accelerated gradient algorithm"
+    ]
+  },
+  {
+    "title": "A Semi-Supervised Attention Model for Identifying Authentic Sneakers",
+    "keywords": [
+      "sneaker identification,",
+      "fine-grained classification,",
+      "multi-instance learning,",
+      "attention mechanism"
+    ]
+  },
+  {
+    "title": "On Quantum Methods for Machine Learning Problems Part II: Quantum Classification Algorithms",
+    "keywords": [
+      "quantum classification,",
+      "binary classification,",
+      "nearest neighbor algorithm"
+    ]
+  },
+  {
+    "title": "Classification on Grade, Price, and Region with Multi-Label and Multi-Target Methods in Wineinformatics",
+    "keywords": [
+      "classification,",
+      "informatics,",
+      "machine learning,",
+      "multi-label,",
+      "multi-target,",
+      "support vector machines,",
+      "wine,",
+      "wineinformatics"
+    ]
+  },
+  {
+    "title": "Clinical Big Data and Deep Learning: Applications, Challenges, and Future Outlooks",
+    "keywords": [
+      "deep learning,",
+      "clinical data,",
+      "electronic health record (ehr),",
+      "medical image,",
+      "clinical note"
+    ]
+  },
+  {
+    "title": "Selective Ensemble Learning Method for Belief-Rule-Base Classification System Based on PAES",
+    "keywords": [
+      "belief-rule-base,",
+      "pareto-archived evolutionary strategy,",
+      "selective ensemble,",
+      "classification"
+    ]
+  },
+  {
+    "title": "LoSI: Large Scale Location Inference Through FM Signal Integration and Estimation",
+    "keywords": [
+      "global positioning system (gps)-free positioning,",
+      "frequency modulation (fm) radio,",
+      "signals of opportunity"
+    ]
+  },
+  {
+    "title": "Prediction of miRNA-circRNA Associations Based on k-NN Multi-Label with Random Walk Restart on a Heterogeneous Network",
+    "keywords": [
+      "mirna-circrna associations,",
+      "heterogeneous network,",
+      "multi-label,",
+      "random walk restart"
+    ]
+  },
+  {
+    "title": "Tweetluenza: Predicting Flu Trends from Twitter Data",
+    "keywords": [
+      "twitter data analysis,",
+      "influenza forecasting,",
+      "prediction using social media,",
+      "social media mining"
+    ]
+  },
+  {
+    "title": "Statistical Learning for Semantic Parsing: A Survey",
+    "keywords": [
+      "deep learning,",
+      "semantic parsing,",
+      "knowledge base question answering (kbqa)"
+    ]
+  },
+  {
+    "title": "A Novel Clustering Technique for Efficient Clustering of Big Data in Hadoop Ecosystem",
+    "keywords": [
+      "clustering,",
+      "hadoop,",
+      "big data,",
+      "k-means,",
+      "hierarchical"
+    ]
+  },
+  {
+    "title": "Network Representation Based on the Joint Learning of Three Feature Views",
+    "keywords": [
+      "network representation learning,",
+      "network feature mining,",
+      "embedding learning,",
+      "link prediction,",
+      "matrix factorization"
+    ]
+  },
+  {
+    "title": "A Semi-Supervised Deep Network Embedding Approach Based on the Neighborhood Structure",
+    "keywords": [
+      "network embedding,",
+      "deep learning,",
+      "network analysis"
+    ]
+  },
+  {
+    "title": "Bayesian Analysis of Complex Mutations in HBV, HCV, and HIV Studies",
+    "keywords": [
+      "bayesian analysis,",
+      "hepatitis b virus (hbv),",
+      "hepatitis c virus (hcv),",
+      "human immunodeficiency virus (hiv),",
+      "complex mutations,",
+      "markov chain monte carlo"
+    ]
+  },
+  {
+    "title": "High Performance Frequent Subgraph Mining on Transaction Datasets: A Survey and Performance Comparison",
+    "keywords": [
+      "frequent subgraphs,",
+      "isomorphism,",
+      "spark"
+    ]
+  },
+  {
+    "title": "Multi-Class Sentiment Analysis on Twitter: Classification Performance and Challenges",
+    "keywords": [
+      "twitter,",
+      "sentiment analysis,",
+      "machine learning"
+    ]
+  },
+  {
+    "title": "Efficient Preference Clustering via Random Fourier Features",
+    "keywords": [
+      "random fourier features,",
+      "matrix decomposition,",
+      "similarity matrix"
+    ]
+  },
+  {
+    "title": "Towards Understanding the Security of Modern Image Captchas and Underground Captcha-Solving Services",
+    "keywords": [
+      "image captchas,",
+      "captcha security,",
+      "captcha-solving service,",
+      "underground market"
+    ]
+  },
+  {
+    "title": "Spreading Social Influence with both Positive and Negative Opinions in Online Networks",
+    "keywords": [
+      "influence spread,",
+      "social networks,",
+      "positive influential node set,",
+      "greedy algorithm,",
+      "positive and negative influences"
+    ]
+  },
+  {
+    "title": "A Non-Redundant Benchmark for Symmetric Protein Docking",
+    "keywords": [
+      "benchmark,",
+      "symmetric protein"
+    ]
+  },
+  {
+    "title": "Model Error Correction in Data Assimilation by Integrating Neural Networks",
+    "keywords": [
+      "data assimilation,",
+      "deep learning,",
+      "neural networks,",
+      "kalman filter,",
+      "variational approach"
+    ]
+  },
+  {
+    "title": "Feature Selection with Graph Mining Technology",
+    "keywords": [
+      "graph mining,",
+      "network embedding,",
+      "big data analysis,",
+      "feature selection,",
+      "high-dimensional data"
+    ]
+  },
+  {
+    "title": "Auxo: A Temporal Graph Management System",
+    "keywords": [
+      "graphs and networks,",
+      "temporal databases,",
+      "composite structures"
+    ]
+  }
+]
