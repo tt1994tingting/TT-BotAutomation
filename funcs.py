@@ -217,7 +217,7 @@ def get_summary_from_db(conn, url, columns):
     result = cursor.fetchone()
     return result if result else None
 
-def fetch_all_summaries(conn, columns):
+def fetch_all_summaries(conn, columns, table):
     columns_str = ', '.join(columns)
     query = f'SELECT {columns_str} FROM summaries'
 
